@@ -1,4 +1,4 @@
-Everything Data Analysis and Visualization. Google Data Analytics Certified, held Excel Skills for Data Analytics and Visualization from Macquarie University.
+For The Love of Numbers 
 
 
 https://public.tableau.com/app/profile/abe.itunu
